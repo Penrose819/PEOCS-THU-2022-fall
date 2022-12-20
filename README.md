@@ -29,6 +29,19 @@ Our group members:
 - [x] Slide
 - [ ] Code
 
+## Reading Assignment
+
+- [ ] Introduction to Discrete Event Systems
+- [ ] Ordinal Optimization- Soft Optimization for Hard Problems
+- [ ] Dynamic Programming and Optimal Control
+- [ ] RL Papers (TRPO, GAE, PPO, DDPG) 
+- [ ] Stochastic Learning and Optimization
+- [ ] NFL Paper
+- [ ] Nested Partitions Method for Global Optimization
+- [ ] OO Paper
+
+
+
 
 
 
