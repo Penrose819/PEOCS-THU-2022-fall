@@ -70,4 +70,41 @@
 
 8. Mathematical Specification:
 
-   - 
+   - state approach
+
+     - $X$: finite state space
+     - $A$: event space, e.g. arrival
+     - $\Gamma(x)$: enabled event space
+     - $f$: state transition function
+
+   -  input / output approach:
+
+     - string & language
+
+   - clock mechanism:
+
+     - $c_{n}(\alpha)$: the n-th lifetime of event $\alpha$
+     - $\tau_{n}(\alpha)$: the time of the n-th occurrence of event $\alpha$
+
+   - Different Models:
+
+     ![](img/img-note1-model.png)
+
+9. The workflow:
+
+   - building models
+   - validation and analysis
+   - **evaluating the model**
+   - **optimization and tuning**
+
+10. Performance Evaluation:
+
+   - sensitivity analysis: $J(\theta+\Delta \theta)$
+   - performance surface: $J(\theta)$ at $\theta^{(i)}$
+   - find optimal parameter $\theta_{optimal}(t)$
+
+11. Three Approaches to a Simple Control Problem:
+
+    - open loop control
+    - feedback control
+    - stochastic control
