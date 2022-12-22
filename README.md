@@ -17,7 +17,7 @@ This course mainly focuses on the modeling and simulation of complex man-made sy
 - [ ] Event-based Optimization
 - [ ] Elements of Simulation
 - [ ] No-free-lunch Theorem
-- [ ] Probability Fundamentals
+- [x] Probability Fundamentals
 - [ ] Stochastic Process Fundamentals
 - [ ] Queueing Theory Fundamentals
 - [ ] Sample Path Analysis
