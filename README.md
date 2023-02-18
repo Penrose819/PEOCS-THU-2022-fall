@@ -9,8 +9,7 @@ This course mainly focuses on the modeling and simulation of complex man-made sy
 ## Lecture Note
 
 - [x] Intro to Complex Systems
-- [ ] Ordinal Optimization
-- [ ] Applications of OO
+- [x] Ordinal Optimization
 - [ ] RL Fundamental
 - [ ] RL Alogrithm
 - [ ] RL Practice
